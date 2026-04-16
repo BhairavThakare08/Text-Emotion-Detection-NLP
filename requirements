@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+altair
+scikit-learn
+joblib
+nltk
+
+# accuracy of model using : bag_of_words = 88 % , TfiDfVector = 86 % 

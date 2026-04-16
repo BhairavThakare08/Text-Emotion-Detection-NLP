@@ -14,16 +14,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-<p align="center">
-  <a href="https://your-streamlit-demo-link.streamlit.app">
-    <img src="https://img.shields.io/badge/🚀 Launch%20Live%20Demo-Click%20Here-orange?style=for-the-badge">
-  </a>
-</p>
-
----
-
 ## 🎬 Dashboard Preview
 
 <p align="center">

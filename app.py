@@ -5,8 +5,13 @@ import numpy as np
 import altair as alt
 import joblib
 import re
+import nltk
 from nltk.corpus import stopwords
 
+try:
+    nltk.data.find("corpora/stopwords")
+except LookupError:
+    nltk.download("stopwords")
 
 st.markdown("""
 <style>
@@ -131,7 +136,6 @@ def get_prediction_proba(text):
     return probs
 
 
-# ================= MAIN UI =================
 # ================= MAIN UI =================
 def main():
     st.title("🧠 Text Emotion Detection")

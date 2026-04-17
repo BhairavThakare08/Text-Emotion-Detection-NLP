@@ -14,6 +14,17 @@
 
 ---
 
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://text-emotion-detection-nlp-2awcaa77duvfnfbqvl8h84.streamlit.app">
+    <img src="https://img.shields.io/badge/🚀 Launch%20Live%20Demo-Click%20Here-orange?style=for-the-badge">
+  </a>
+</p>
+
+---
+
 ## 🎬 Dashboard Preview
 
 <p align="center">
@@ -136,4 +147,7 @@ This system can be used in:
 ## 👨‍💻 Author
 
 **Bhairav Thakare**
+
+
+
 
